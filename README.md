@@ -26,4 +26,4 @@ Kimia Farma Performance Analytics involves creating a performance analysis dashb
 5.	How Indonesia’s Geo Map regarding total profit by province?
 
 ## 📎 Preview
-(https://github.com/afifahasfaa/kimia_farma_performance_analytics/blob/main/Screenshot%202026-09-25%20121628.png)
+![Dashboard Preview](Screenshot%202026-09-25%20121628.png)
