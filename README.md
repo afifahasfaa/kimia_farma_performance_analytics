@@ -1,4 +1,4 @@
-## 💻 Kimia Farma Performance Analytics
+## 💊 Kimia Farma Performance Analytics
 
 ## ⚙️ Tools Used
 - BigQuery SQL
