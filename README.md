@@ -9,7 +9,7 @@ Kimia Farma Performance Analytics involves creating a performance analysis dashb
 
 ## 📊 Dataset Used
 - Raw data: raw data from Kimia Farma x Rakamin Project-Based Intern
-- Clean data: 
+- Clean data: https://github.com/afifahasfaa/kimia_farma_performance_analytics/blob/main/Tabel%20Analisa.csv
 
 ## 💡 What I learned
 - How to clean and merge data using BigQuery
